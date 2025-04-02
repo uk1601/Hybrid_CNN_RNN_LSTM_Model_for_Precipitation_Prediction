@@ -1,0 +1,7 @@
+# Exclude raw data folder
+raw\ data/
+raw\ data/*
+data/
+data/*
+.ipynb_checkpoints/
+.DS_Store
